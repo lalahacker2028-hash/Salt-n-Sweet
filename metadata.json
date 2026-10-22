@@ -1,0 +1,6 @@
+{
+  "name": "Salt'n Sweet - Restaurant, Cafe & Bakery | Mirpur Mathelo",
+  "description": "Official online menu and WhatsApp ordering for Salt'n Sweet in Mirpur Mathelo, Sindh. Gourmet fast food, crispy burgers, stone-baked pizza, artisan cakes and bakery sweets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
